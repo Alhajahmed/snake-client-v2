@@ -9,7 +9,11 @@ const connect = function () {
 
   conn.on("connect", () => {
     console.log("you're successfully connected");
-    conn.write("Name: Ahmed");
+    conn.write("Name: AHA");
+    //   conn.write("Move: up");
+    //   setTimeout(() => conn.write("Move: left"));
+    // },
+    // 3000
   });
 
   conn.on("data", (data) => {
