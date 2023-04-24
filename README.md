@@ -31,6 +31,8 @@ If you bump into the walls or other players, your player will die and the game w
 
 ## final Product
 
+![Snake game Screenshot](https://github.com/Alhajahmed/snake-client-v2/blob/master/Pics/Snake%20.png)
+
 ### Dependencies
 
 - Node.js
